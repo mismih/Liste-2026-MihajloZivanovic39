@@ -11,6 +11,7 @@ namespace Liste_2026_MihajloZivanovic39
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav profesore!");
+            Console.WriteLine("Mihajlo Zivanovic");
             Console.ReadKey();
         }
     }
